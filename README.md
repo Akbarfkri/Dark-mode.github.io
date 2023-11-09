@@ -26,11 +26,11 @@ Click Design User Interface on Dribbble, I created a Dribbble Design using Figma
 <br>
            <ul>
            <li>
-           <a href="https://Dark-Mode.akbarfkri.repl.co/">
+           <a href="https://Dark-Mode.akbarfkri.repl.co/](https://online-prayer-beads.akbarfkri.repl.co">
            <b>Live Preview</b>
            </a>
            </li>
-           <li><a href="https://dribbble.com/shots/20813101-Dark-Mode-Navigation-Animated">
+           <li>
            <b>https://dribbble.com/akbarfikri</b>
            </a>
            </li>
